@@ -18,3 +18,6 @@ sudo apt install docker-ce
 sudo systemctl status docker
 sudo systemctl status docker
 ```
+
+Ref:
+https://medium.com/@SandeepDinesh/moving-ezschool-com-to-google-cloud-platform-bbb845ccbc97
